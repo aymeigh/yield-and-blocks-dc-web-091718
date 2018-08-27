@@ -6,6 +6,9 @@ def hello_t(array)
  i = i + 1 
  end 
  array
+ else
+   puts "hey! no blcok was given!"
+ end
 end
 
 
